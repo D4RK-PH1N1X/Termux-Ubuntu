@@ -6,6 +6,7 @@ This is a script by which you can install Ubuntu in your termux application with
 
 ## Updates
 **• Updated to ubuntu 20.04**
+
 Tool Copyright-MFDGaming 
 ## Important
 
