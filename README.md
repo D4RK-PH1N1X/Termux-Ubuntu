@@ -1,4 +1,4 @@
-# ubuntu-in-termux
+# Termux-Ubuntu
 
 ## What's This?
 
